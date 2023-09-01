@@ -23,8 +23,4 @@ You can install these dependencies using `pip` by running the following command:
 
 ## Results
 
-(Add results and visualizations of the model's performance)
-
-## License
-
-(Add information about the license of the code in this repository)
+![val_batch2_pred](https://github.com/Nazarka99/Wood-defects-detection-yolo5/assets/77903394/2f11e9d8-1e7a-49d3-b6c6-ea03471d5c93)
